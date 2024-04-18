@@ -1,0 +1,111 @@
+.card {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid blue 2px;
+}
+
+#players {
+    border: solid red 2px;
+    border-radius:  5px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Normal */
+.normal {
+    background-color: #A8A878;
+}
+
+/* Fire */
+.fire {
+    background-color: #F08030;
+}
+
+/* Water */
+.water {
+    background-color: #6890F0;
+}
+
+/* Electric */
+.electric {
+    background-color: #F8D030;
+}
+
+/* Grass */
+.grass {
+    background-color: #78C850;
+}
+
+/* Ice */
+.ice {
+    background-color: #98D8D8;
+}
+
+/* Fighting */
+.fighting {
+    background-color: #C03028;
+}
+
+/* Poison */
+.poison {
+    background-color: #A040A0;
+}
+
+/* Ground */
+.ground {
+    background-color: #E0C068;
+}
+
+/* Flying */
+.flying {
+    background-color: #A890F0;
+}
+
+/* Psychic */
+.psychic {
+    background-color: #F85888;
+}
+
+/* Bug */
+.bug {
+    background-color: #A8B820;
+}
+
+/* Rock */
+.rock {
+    background-color: #B8A038;
+}
+
+/* Ghost */
+.ghost {
+    background-color: #705898;
+}
+
+/* Dragon */
+.dragon {
+    background-color: #7038F8;
+}
+
+/* Dark */
+.dark {
+    background-color: #705848;
+}
+
+/* Steel */
+.steel {
+    background-color: #B8B8D0;
+}
+
+/* Fairy */
+.fairy {
+    background-color: #EE99AC;
+}
